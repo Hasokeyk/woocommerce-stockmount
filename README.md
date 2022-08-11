@@ -1,4 +1,6 @@
 # woocommerce-stockmound
  stockmount.com - Woocommerce Eklentisi
 
-Eklenti hala yazım aşamsında iletişim için : hasanhasokeyk@hotmail.com
+Worespress woocommerce eklentisi olarak geliştirilecektir.
+
+Ücretsiz lisans için yıldızlamayı unutmayın.
